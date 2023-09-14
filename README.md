@@ -1,6 +1,6 @@
-# Fall-Detection-using-Image-Processing-and-Machine-Learning-
+# Fall-Detection-Using-Computer-Vision
 
-Falls are the major issues which occurs unexpectedly. This can also lead sometimes to death. Elderly persons are at the topmost risk and their life can also be in danger. There are lots of deaths caused due to the fall of elderly persons. This project aims to predict the fall as soon as it takes place.
+Falls are some of the most common issues that happen frequently. This can also lead sometimes to death. Elderly persons are at the highest risk due to which their life can be in danger. This project aims to detect fall when it occurs.
 
 Process
 
