@@ -1,13 +1,5 @@
-# Fall-Detection-Using-Computer-Vision
+The goal is to detect human falls, primarily focused on the safety of elderly individuals, by using computer vision and machine learning
 
-Falls are some of the most common issues that happen frequently. This can also lead sometimes to death. Elderly persons are at the highest risk due to which their life can be in danger. This project aims to detect fall when it occurs.
+Features include image processing, BRISK feature descriptor, multiple machine learning algorithms for fall prediction
 
-Process
-
-• Complete image pre-processing, which includes image background removal, edge detection, star feature extractor and brisk feature descriptor.
-
-• Used multiple machine learning algorithm like Random Forest, Decision Tree and KNN.
-
-• Determining the accuracy of different machine learning algorithms.
-
-• Predicting the fall.
+The project involves image pre-processing, feature extraction with BRISK, and applying machine learning algorithms like Random Forest, Decision Tree, KNN
